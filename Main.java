@@ -3,4 +3,8 @@ public class Main {
         System.out.println("Hello worlds");
         System.out.println("My name is Khan");
     }
+
+    int sum(int a, int b) {
+        return a+b;
+    }
 }
